@@ -11,3 +11,11 @@ label {
 input [type=checkbox], input[type=button] {
     margin-left: 50%;
 }
+
+h1 {
+    margin-left: 50%;
+}
+
+#validation-summary > p {
+    margin-left: 50%;
+}

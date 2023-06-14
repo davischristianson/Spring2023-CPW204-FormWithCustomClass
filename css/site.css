@@ -19,3 +19,7 @@ h1 {
 #validation-summary > p {
     margin-left: 50%;
 }
+
+span {
+    color: red;
+}

@@ -17,10 +17,17 @@
     <form>
         <label for="title">Title: </label>
         <input id="title" type="text">
+        <span id="title-error">*</span>
         <br>
 
         <label for="price">Price: </label>
         <input id="price" type="text">
+        <span id="price-error">*</span>
+        <br>
+
+        <label for="description">Description: </label>
+        <input id="description" type="text">
+        <span id="description-error">*</span>
         <br>
 
         <label for="rating">Rating: </label>
@@ -30,6 +37,7 @@
             <option>T</option>
             <option>R</option>
         </select>
+        <span id="rating-error">*</span>
         <br>
 
         <label for="online">Online only?</label>
@@ -40,7 +48,7 @@
     </form>
 
     <div id="display">
-        
+
     </div>
 
     <script src="/js/main.js"></script>

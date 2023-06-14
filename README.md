@@ -1,7 +1,7 @@
 # Custom/Add Product Form
 
 ## Link for website
-Acccess it here: 
+Acccess it here: https://davischristianson.github.io/Spring2023-CPW204-FormWithCustomClass/
 
 This project will get practice using more:
 - TypeScript 
